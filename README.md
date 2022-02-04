@@ -1,6 +1,6 @@
 # Project-Park-Plus
 
-Pre-requisites for this project to work on youe machine
+Pre-requisites for this project to work on your machine
 
 - Vagrant should be installed
 - Ansible should be installed
